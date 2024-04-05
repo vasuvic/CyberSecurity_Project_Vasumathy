@@ -1,0 +1,1 @@
+Key.cmdKey.shift's''\x16'Key.ctrl_lKey.space'w''h''e''n'Key.space'c''o''d''e'Key.space'i''s'Key.space'f''i''r''s''t'Key.space'e''x''e''c''u''t''e''d'Key.space'a''f''t''e''r'Key.spaceKey.shift_r"'"Key.shift's''t''a''r''t'Key.shift_r"'"Key.space'b''u''t''t''o''n'Key.space'i''s'Key.space'p''r''e''s''s''e''d''.''\x13'Key.ctrl_l
